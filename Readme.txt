@@ -1,0 +1,1 @@
+Before running the project kindly import the "database.sql" file in phpmyadmin.
